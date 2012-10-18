@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)-->
+<ajsv>
+    <diagram style="defaultDiagramStyle" version="1.7.3.v20110116-2128">
+        <class className="it.uniroma2.algoritimiestrutturedati.mccalv.app.VolantiApp" project="Volanti" xLocation="-630" yLocation="-866"/>
+        <class className="it.uniroma2.algoritimiestrutturedati.mccalv.model.Volante" project="Volanti" xLocation="-571" yLocation="37"/>
+        <class className="it.uniroma2.algoritimiestrutturedati.mccalv.model.Intervento" project="Volanti" xLocation="684" yLocation="-687"/>
+        <class className="it.uniroma2.algoritimiestrutturedati.mccalv.model.graph.InfoArco" project="Volanti" xLocation="116" yLocation="-359"/>
+        <class className="it.uniroma2.algoritimiestrutturedati.mccalv.model.graph.Grafo" project="Volanti" xLocation="-270" yLocation="648"/>
+        <class className="it.uniroma2.algoritimiestrutturedati.mccalv.model.graph.Percorso" project="Volanti" xLocation="778" yLocation="-280"/>
+        <class className="it.uniroma2.algoritimiestrutturedati.mccalv.model.graph.Arco" project="Volanti" xLocation="407" yLocation="312"/>
+        <class className="it.uniroma2.algoritimiestrutturedati.mccalv.model.graph.Nodo" project="Volanti" xLocation="338" yLocation="-12"/>
+        <class className="it.uniroma2.algoritimiestrutturedati.mccalv.model.graph.InfoNodo" project="Volanti" xLocation="777" yLocation="47"/>
+        <class className="it.uniroma2.algoritimiestrutturedati.mccalv.model.graph.impl.Strada" project="Volanti" xLocation="953" yLocation="362"/>
+        <class className="it.uniroma2.algoritimiestrutturedati.mccalv.model.graph.impl.Incrocio" project="Volanti" xLocation="19" yLocation="315"/>
+        <class className="it.uniroma2.algoritimiestrutturedati.mccalv.model.graph.impl.ReteStradale" project="Volanti" xLocation="378" yLocation="717"/>
+        <class className="it.uniroma2.algoritimiestrutturedati.mccalv.model.route.CamminiMinimi" project="Volanti" xLocation="1092" yLocation="670"/>
+        <class className="it.uniroma2.algoritimiestrutturedati.mccalv.parser.InputFileParser" project="Volanti" xLocation="1214" yLocation="76"/>
+        <class className="it.uniroma2.algoritimiestrutturedati.mccalv.test.GrafoTest" project="Volanti" xLocation="1391" yLocation="365"/>
+    </diagram>
+</ajsv>
