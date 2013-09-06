@@ -92,7 +92,7 @@ public class InputFileParser {
 		try {
 
 			FileReader fileReader = new FileReader(pathFilesDaClassPath()
-					+ "/files/" + roma + "/CITTA");
+					+ "/Files/" + roma + "/CITTA");
 
 			input = new BufferedReader(fileReader);
 
@@ -157,7 +157,7 @@ public class InputFileParser {
 	private static String pathFilesDaClassPath() {
 
 		String root = System.getProperty("user.dir");
-		//sInputFileParser.class
+		;
 		return root;
 	}
 
@@ -185,7 +185,7 @@ public class InputFileParser {
 		List<Car> volanti = new ArrayList<Car>();
 		try {
 			FileReader fileReader = new FileReader(pathFilesDaClassPath()
-					+ "/files/" + roma + "/VOLANTI");
+					+ "/Files/" + roma + "/VOLANTI");
 
 			input = new BufferedReader(fileReader);
 
@@ -250,7 +250,7 @@ public class InputFileParser {
 		try {
 
 			FileWriter fileWriter = new FileWriter(pathFilesDaClassPath()
-					+ "/files/" + reteStradale.getCity() + "/VOLANTI");
+					+ "/Files/" + reteStradale.getCity() + "/VOLANTI");
 
 			// fileWriter = new FileWriter("VOLANTI");
 			out = new BufferedWriter(fileWriter);
